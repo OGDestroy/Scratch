@@ -1,0 +1,5 @@
+name: ArdaPlugin
+version: '${project.version}'
+main: me.destroy.main.Main
+api-version: 1.19
+description: Arda Plugin
